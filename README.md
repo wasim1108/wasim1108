@@ -9,3 +9,4 @@ I'm Wasim and I'm a Full Stack Developer.
 - SQL
 - Git & GitHub
 - Tailwind CSS
+- PHP
